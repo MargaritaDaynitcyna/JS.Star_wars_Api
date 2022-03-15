@@ -1,8 +1,9 @@
-# JS.Star_wars_Api
-View [here](https://margaritadaynitcyna.github.io/JS.Star_wars_Api/)
+# Каталог "звёздных войн"
 
-- This app - it's a catalog of Star Wars episodes with detailed information about each movie.
+Посмотреть [здесь](https://margaritadaynitcyna.github.io/star-wars-api-JS/)
 
-- Useb by the API service to get data on the Star Wars universe.
+- Это приложение - это каталог эпизодов Звездных войн с подробной информацией о каждом фильме.
 
-- Using asynchronous function calls.
+- Используется API - сервис для получения данных о вселенной «Звездных войн».
+
+- В коде используются асинхронные вызовы функций.
